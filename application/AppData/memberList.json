@@ -1,0 +1,35 @@
+[
+  {
+    "Name": {
+      "Username": "Niklas"
+    },
+    "Pin": {
+      "Pin": "8701011010"
+    },
+    "UniqueId": 23599335,
+    "Boats": [
+      {
+        "Type": 3,
+        "Length": 5.0,
+        "OwnerId": 58963067,
+        "UniqueId": 37561064
+      },
+      {
+        "Type": 2,
+        "Length": 11.0,
+        "OwnerId": 99397585,
+        "UniqueId": 88245177
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Username": "Adam"
+    },
+    "Pin": {
+      "Pin": "9501011010"
+    },
+    "UniqueId": 36509557,
+    "Boats": []
+  }
+]
